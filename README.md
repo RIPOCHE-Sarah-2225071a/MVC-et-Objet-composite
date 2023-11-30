@@ -611,6 +611,15 @@ Drawing Triangle with color Green
 Drawing Circle with color Green
 ```
 
+### Coéquipiers :
+
+AVENA Clément
+FALFERI Gabin
+KHADRAOUI Sabri
+MARTINEZ Romain
+RIPOCHE Sarah
+VINCENT Erwan
+
 ### Sources : 
 https://www.digitalocean.com/community/tutorials/composite-design-pattern-in-java
 
